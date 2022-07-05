@@ -26,6 +26,10 @@ A progressive web application (PWA) that allows users to add expenses and deposi
 
 `npm start`
 
+## Deployed application
+
+[Heroku link](https://budget-tracker-0303.herokuapp.com/)
+
 ## Screenshot
 
 <img src="./assets/Budget_tracker.png" alt="main page" />
