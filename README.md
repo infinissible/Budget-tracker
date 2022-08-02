@@ -33,3 +33,12 @@ A progressive web application (PWA) that allows users to add expenses and deposi
 ## Screenshot
 
 <img src="./assets/Budget_tracker.png" alt="main page" />
+
+## Questions
+
+Find me on GitHub
+infinissible
+repo: https://github.com/infinissible
+
+Email me with any questions
+infinissible@gmail.com
